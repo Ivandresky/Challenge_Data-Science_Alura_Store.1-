@@ -1,7 +1,7 @@
 # 📊 Challenge Data Science - Análise de Dados das Lojas (Sr. João)
 
 ## Objetivo
-Este projeto analisa o desempenho de 4 lojas para identificar qual delas deve ser vendida, considerando múltiplos fatores estratégicos como faturamento, satisfação do cliente e custos operacionais.
+O presente projeto busca analisa o desempenho de 4 lojas para identificar qual delas deve ser vendida, considerando múltiplos fatores estratégicos como faturamento, satisfação do cliente e custos operacionais.
 
 ## 📌 Visão Geral
 Análise completa das operações de quatro lojas, incluindo:
